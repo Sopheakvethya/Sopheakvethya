@@ -1,4 +1,4 @@
 # Hi there, I'm Vethya
 
-- I am a sophomore majoring in software engineering
+- I am a software engineering major.
 - Ask me about programming :D
